@@ -1,0 +1,7 @@
+<ns:GetCustomers xmlns:ns="http://www.1c.ru/CustomerOrders/Exchange"
+                 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ns:MobileDeviceID>qoder-probe</ns:MobileDeviceID>
+  <ns:AllCustomers xsi:nil="true"/>
+  <ns:Customer xsi:nil="true"/>
+  <ns:Address xsi:nil="true"/>
+</ns:GetCustomers>

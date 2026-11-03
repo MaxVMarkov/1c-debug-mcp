@@ -1,0 +1,5 @@
+<ns:PrepareDataForGetting xmlns:ns="http://www.1c.ru/SSL/EnterpriseDataExchange_1_0_1_1">
+  <ns:ExchangePlanName>ОбменССайтом</ns:ExchangePlanName>
+  <ns:PeerCode>qoder-probe</ns:PeerCode>
+  <ns:PartSize>4096</ns:PartSize>
+</ns:PrepareDataForGetting>

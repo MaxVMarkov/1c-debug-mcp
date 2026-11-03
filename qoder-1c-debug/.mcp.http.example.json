@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "1c-debug": {
+      "type": "http",
+      "url": "http://localhost:8123/mcp"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "1c-debug",
+  "version": "0.0.12",
+  "displayName": "1C Debug",
+  "description": "[Python] Управление режимом отладки 1С:Предприятие 8.5 через сервер отладки кластера (dbgs.exe): точки останова, шаги, стек, вычисление выражений — без EDT и без кликов в конфигураторе.",
+  "author": {
+    "name": "MaxVMarkov"
+  },
+  "license": "MIT",
+  "keywords": [
+    "1c",
+    "1c-dev",
+    "debug",
+    "debugger",
+    "breakpoint",
+    "dbgs",
+    "rdbg",
+    "mcp"
+  ],
+  "mcpServers": "./.mcp.json"
+}
